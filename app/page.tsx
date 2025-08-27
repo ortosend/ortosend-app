@@ -1,3 +1,3 @@
 export default function Home() {
-  return <h1>OrtoSend App funcionando 🚀</h1>;
+  return <main style={{padding:24}}>Bienvenido a OrtoSend 🚀</main>;
 }
